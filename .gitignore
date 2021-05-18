@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+# pdf
+*.pdf
+# zip
+*.zip
 # Distribution / packaging
 .Python
 build/
